@@ -18,3 +18,4 @@ squatting on American Express skills. The findings on the same shows the securit
 Amazon Alexa. The possibility of the attack is discussed by establishing two threat models which
 summaries our novel conclusion.
 
+
