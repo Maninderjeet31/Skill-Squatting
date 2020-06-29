@@ -17,5 +17,3 @@ We further the work on Skill Squatting by contributing to real world case scenar
 squatting on American Express skills. The findings on the same shows the security implications related to
 Amazon Alexa. The possibility of the attack is discussed by establishing two threat models which
 summaries our novel conclusion.
-
-
